@@ -20,6 +20,7 @@ apt install certbot python3-certbot-apache
 
 - - - Support certbot --version for OpenSuse Leap 42.3
 [certbot-1.6.0](https://github.com/certbot/certbot/releases/tag/v1.6.0) 
+[certbot-1.8.0](https://github.com/nu11secur1ty/certbot/releases/tag/certbot-1.8.0)
   
   or
 
