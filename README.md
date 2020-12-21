@@ -30,3 +30,12 @@ apt install certbot python3-certbot-apache
 -------------------------------------------------------------------
 - - - OpenSuse Leap 15.x
 [docs](https://snapcraft.io/install/certbot/opensuse)
+
+# Installation by downloading from the source
+
+```bash
+git clone https://github.com/certbot/certbot.git
+cd certbot-1.6.0 
+# or 1.8.0
+./certbot-auto --help all
+```
