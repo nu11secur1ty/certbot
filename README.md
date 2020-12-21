@@ -17,6 +17,7 @@ apt install certbot python3-certbot-apache
 - - - OpenSuse Leap 42.3
 
 [not_support](https://community.letsencrypt.org/t/solution-to-install-on-opensuse-42-3/76122)
+
 [old_docs_2016](https://rootco.de/2016-05-16-letsencrypt-on-leap/)
 
 - - - OpenSuse Leap 15.x
